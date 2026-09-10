@@ -1,0 +1,194 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "age": 16,
+      "gender": "Male",
+      "grade": "10",
+      "section": "A",
+      "rollNumber": 101,
+      "email": "aarav.sharma@example.com",
+      "phone": "9876543210",
+      "address": "Delhi, India",
+      "marks": {
+        "Math": 92,
+        "Science": 89,
+        "English": 85,
+        "SocialStudies": 90,
+        "Computer": 95
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ananya Verma",
+      "age": 15,
+      "gender": "Female",
+      "grade": "10",
+      "section": "A",
+      "rollNumber": 102,
+      "email": "ananya.verma@example.com",
+      "phone": "9876543211",
+      "address": "Mumbai, India",
+      "marks": {
+        "Math": 95,
+        "Science": 91,
+        "English": 93,
+        "SocialStudies": 88,
+        "Computer": 97
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rohan Gupta",
+      "age": 16,
+      "gender": "Male",
+      "grade": "10",
+      "section": "B",
+      "rollNumber": 103,
+      "email": "rohan.gupta@example.com",
+      "phone": "9876543212",
+      "address": "Lucknow, India",
+      "marks": {
+        "Math": 78,
+        "Science": 82,
+        "English": 80,
+        "SocialStudies": 76,
+        "Computer": 85
+      }
+    },
+    {
+      "id": 4,
+      "name": "Priya Singh",
+      "age": 15,
+      "gender": "Female",
+      "grade": "10",
+      "section": "B",
+      "rollNumber": 104,
+      "email": "priya.singh@example.com",
+      "phone": "9876543213",
+      "address": "Jaipur, India",
+      "marks": {
+        "Math": 88,
+        "Science": 90,
+        "English": 87,
+        "SocialStudies": 91,
+        "Computer": 89
+      }
+    },
+    {
+      "id": 5,
+      "name": "Karan Mehta",
+      "age": 16,
+      "gender": "Male",
+      "grade": "10",
+      "section": "A",
+      "rollNumber": 105,
+      "email": "karan.mehta@example.com",
+      "phone": "9876543214",
+      "address": "Pune, India",
+      "marks": {
+        "Math": 84,
+        "Science": 79,
+        "English": 81,
+        "SocialStudies": 83,
+        "Computer": 86
+      }
+    },
+    {
+      "id": 6,
+      "name": "Sneha Iyer",
+      "age": 15,
+      "gender": "Female",
+      "grade": "10",
+      "section": "C",
+      "rollNumber": 106,
+      "email": "sneha.iyer@example.com",
+      "phone": "9876543215",
+      "address": "Chennai, India",
+      "marks": {
+        "Math": 91,
+        "Science": 94,
+        "English": 90,
+        "SocialStudies": 92,
+        "Computer": 96
+      }
+    },
+    {
+      "id": 7,
+      "name": "Vikram Patel",
+      "age": 16,
+      "gender": "Male",
+      "grade": "10",
+      "section": "C",
+      "rollNumber": 107,
+      "email": "vikram.patel@example.com",
+      "phone": "9876543216",
+      "address": "Ahmedabad, India",
+      "marks": {
+        "Math": 73,
+        "Science": 77,
+        "English": 75,
+        "SocialStudies": 79,
+        "Computer": 80
+      }
+    },
+    {
+      "id": 8,
+      "name": "Neha Kapoor",
+      "age": 15,
+      "gender": "Female",
+      "grade": "10",
+      "section": "A",
+      "rollNumber": 108,
+      "email": "neha.kapoor@example.com",
+      "phone": "9876543217",
+      "address": "Chandigarh, India",
+      "marks": {
+        "Math": 96,
+        "Science": 95,
+        "English": 94,
+        "SocialStudies": 93,
+        "Computer": 98
+      }
+    },
+    {
+      "id": 9,
+      "name": "Arjun Nair",
+      "age": 16,
+      "gender": "Male",
+      "grade": "10",
+      "section": "B",
+      "rollNumber": 109,
+      "email": "arjun.nair@example.com",
+      "phone": "9876543218",
+      "address": "Kochi, India",
+      "marks": {
+        "Math": 86,
+        "Science": 84,
+        "English": 88,
+        "SocialStudies": 82,
+        "Computer": 90
+      }
+    },
+    {
+      "id": 10,
+      "name": "Meera Joshi",
+      "age": 15,
+      "gender": "Female",
+      "grade": "10",
+      "section": "C",
+      "rollNumber": 110,
+      "email": "meera.joshi@example.com",
+      "phone": "9876543219",
+      "address": "Bengaluru, India",
+      "marks": {
+        "Math": 89,
+        "Science": 92,
+        "English": 91,
+        "SocialStudies": 90,
+        "Computer": 94
+      }
+    }
+  ]
+}

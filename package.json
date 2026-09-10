@@ -1,0 +1,24 @@
+{
+  "name": "sem3fsd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medhawintiwari/FSD-CSE-21-BACKENED.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/medhawintiwari/FSD-CSE-21-BACKENED/issues"
+  },
+  "homepage": "https://github.com/medhawintiwari/FSD-CSE-21-BACKENED#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
