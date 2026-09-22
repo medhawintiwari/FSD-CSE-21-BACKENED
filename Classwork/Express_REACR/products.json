@@ -1,0 +1,30 @@
+{
+    "id":"1",
+    "name":"Iphone 14",
+    "description":"The iPhone 14 is a smartphone designed, developed, and marketed by Apple Inc. It is part of the iPhone series and was released in September 2022. The iPhone 14 features a sleek design, advanced camera system, and powerful performance capabilities.",
+    "price":799.99,
+}
+{
+    "id":"2",
+    "name":"Samsung Galaxy S23",
+    "description":"The Samsung Galaxy S23 is a flagship smartphone developed by Samsung Electronics. It was released in February 2023 and is part of the Galaxy S series. The Galaxy S23 boasts a high-resolution display, advanced camera features, and a powerful processor for seamless performance.",
+    "price":899.99,
+}
+{
+    "id":"3",
+    "name":"Google Pixel 7",
+    "description":"The Google Pixel 7 is a smartphone developed by Google. It was released in October 2022 and is part of the Pixel series. The Pixel 7 features a clean and user-friendly interface, excellent camera capabilities, and integration with Google's ecosystem of services.",
+    "price":699.99,
+}
+{
+    "id":"4",
+    "name":"OnePlus 11",
+    "description":"The OnePlus 11 is a flagship smartphone developed by OnePlus. It was released in March 2023 and is part of the OnePlus series. The OnePlus 11 offers a high-refresh-rate display, fast charging capabilities, and a smooth user experience with OxygenOS.",
+    "price":749.99,
+}
+{
+    "id":"5",
+    "name":"Sony Xperia 1 IV",
+    "description":"The Sony Xperia 1 IV is a premium smartphone developed by Sony. It was released in May 2023 and is part of the Xperia series. The Xperia 1 IV features a 4K OLED display, advanced camera technology, and a focus on multimedia and entertainment experiences.",
+    "price":1199.99,
+}
